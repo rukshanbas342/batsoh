@@ -76,7 +76,7 @@ If you are using Visual Studio Code, ensure to install the Python Extension by M
      - `Actual_vs_Predicted_SOH.png` — visualizes actual vs predicted SOH values.
      - `Residuals_Distribution.png` — shows the distribution of prediction errors.
 
-5. **Sample output preview (with SOH Threshold of 0.6):**
+5. **Output preview (with SOH Threshold of 0.6):**
    ```
     📊 Unsorted Data Model Evaluation Metrics:
     R² Score: 0.6561
